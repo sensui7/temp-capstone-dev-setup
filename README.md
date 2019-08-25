@@ -52,6 +52,7 @@ if __name__ == '__main__':
 ```
 - tkinter module needs to be installed
    - Please install tkinter via `sudo apt-get install python3-tk`
+    - See https://tkdocs.com/tutorial/install.html for other platform installations
    - See https://docs.python.org/3/library/tkinter.html
    - Example program
 ```
