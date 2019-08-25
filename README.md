@@ -3,8 +3,9 @@
 ## Installation Links & Account Setup
 - Register for the JetBrains Student Pack (use your PSU email)
   - https://www.jetbrains.com/shop/eform/students
-- Install the IDE for development environment (click the right one for your platform)
+- Install the IDE (Professional Version) for development environment (click the right one for your platform)
   - https://www.jetbrains.com/pycharm/download
+  - Make sure to go to `licenses` and login with your student pack account
 
 ## Python Installation to Work w/ Pycharm
 - Download Python 3.7.4 here
