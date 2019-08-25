@@ -13,6 +13,7 @@
 ## Git Integration w/ Pycharm
 - Install GIT here required for use w/ IDE (cross-platform)
   - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+- OPTIONAL - Install Git Toolbox plugin on IDE's plugin list
 
 ## Flask & Django Integration
 - Already is an option on Pycharm when you click on setting up a new project.
