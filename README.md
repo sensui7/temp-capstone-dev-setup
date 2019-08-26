@@ -87,7 +87,9 @@ app.mainloop()
 ## What is Django, Flask, and Tkinter?
 - Django
   - A Python-based free and open-source web framework, which follows the model-template-view architectural pattern.
+  - Tutorial: https://docs.djangoproject.com/en/2.2/intro/tutorial01/
 - Flask
   - A popular, extensible web microframework for building web applications with Python.
+  - Tutorial: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 - Tkinter
   - The standard Python interface or module for creating GUIs.
